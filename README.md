@@ -1,11 +1,11 @@
 ### Hi there 👋
-I'm Developer
+I'm a Developer
   Nice to meet you!!<br>
   Using Develop Tools<br>
  <img alt="python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style-for-the-badge&logo=Csharp&logoColor=white"/>
- <img alt="C#" src="https://img.shields.io/badge/-C%23-yellow"/>
- <img alt="C#" src="https://img.shields.io/badge/-JavaScript-orange"/>
- <img alt="C#" src="https://img.shields.io/badge/-React-pink"/>
+ <img alt="C#" src="https://img.shields.io/badge/Csharp-239120.svg?&style-for-the-badge&logo=Csharp&logoColor=white"/>
+ <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style-for-the-badge&logo=Csharp&logoColor=white"/>
+ <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style-for-the-badge&logo=Csharp&logoColor=white"/>
  
 <!--
 **JangHoseoung/JangHoSeoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
