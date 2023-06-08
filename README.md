@@ -2,6 +2,7 @@
 I'm Developer
   Using C# Python JS React etc...
   Nice to meet you!!
+  https://img.shields.io/badge/-Python-blue
 <!--
 **JangHoseoung/JangHoSeoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
