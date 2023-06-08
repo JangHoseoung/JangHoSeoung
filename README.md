@@ -7,6 +7,7 @@ I'm a Developer
  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?&style-for-the-badge&logo=HTML5&logoColor=white"/>
  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style-for-the-badge&logo=JavaScript&logoColor=white"/>
  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style-for-the-badge&logo=react&logoColor=white"/>
+ <img alt="React" src="https://img.shields.io/badge/D3JS-F9A03C.svg?&style-for-the-badge&logo=d3dotjs&logoColor=white"/>
  
  
 <!--
