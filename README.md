@@ -6,6 +6,7 @@ I'm a Developer
  <img alt="C#" src="https://img.shields.io/badge/Csharp-239120.svg?&style-for-the-badge&logo=Csharp&logoColor=white"/>
  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style-for-the-badge&logo=Csharp&logoColor=white"/>
  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style-for-the-badge&logo=Csharp&logoColor=white"/>
+ <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?&style-for-the-badge&logo=Csharp&logoColor=white"/>
  
 <!--
 **JangHoseoung/JangHoSeoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
