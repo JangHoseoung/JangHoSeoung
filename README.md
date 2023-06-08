@@ -2,7 +2,12 @@
 I'm Developer
   Using C# Python JS React etc...
   Nice to meet you!!<br>
+  Develop 
  <img alt="python" src ="https://img.shields.io/badge/-Python-blue"/>
+ <img alt="C#" src="https://img.shields.io/badge/-C%23-yellow"/>
+ <img alt="C#" src="https://img.shields.io/badge/-JavaScript-orange"/>
+ <img alt="C#" src="https://img.shields.io/badge/-React-pink"/>
+ 
 <!--
 **JangHoseoung/JangHoSeoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
