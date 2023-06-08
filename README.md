@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Developer
   Using C# Python JS React etc...
-  Nice to meet you!!
+  Nice to meet you!!<br>
  <img alt="python" src ="https://img.shields.io/badge/-Python-blue"/>
 <!--
 **JangHoseoung/JangHoSeoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
