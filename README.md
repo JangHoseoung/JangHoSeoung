@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Developer
+  Using C# Python JS React etc...
+  Nice to meet you!!
 <!--
 **JangHoseoung/JangHoSeoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
