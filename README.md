@@ -1,8 +1,7 @@
 ### Hi there 👋
 I'm Developer
-  Using C# Python JS React etc...
   Nice to meet you!!<br>
-  Develop Tools<br>
+  Using Develop Tools<br>
  <img alt="python" src ="https://img.shields.io/badge/-Python-blue"/>
  <img alt="C#" src="https://img.shields.io/badge/-C%23-yellow"/>
  <img alt="C#" src="https://img.shields.io/badge/-JavaScript-orange"/>
