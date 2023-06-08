@@ -2,7 +2,7 @@
 I'm Developer
   Nice to meet you!!<br>
   Using Develop Tools<br>
- <img alt="python" src ="https://img.shields.io/badge/-Python-blue"/>
+ <img alt="python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style-for-the-badge&logo=Csharp&logoColor=white"/>
  <img alt="C#" src="https://img.shields.io/badge/-C%23-yellow"/>
  <img alt="C#" src="https://img.shields.io/badge/-JavaScript-orange"/>
  <img alt="C#" src="https://img.shields.io/badge/-React-pink"/>
